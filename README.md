@@ -83,9 +83,3 @@ Le frontend affichera les produits et permettra d’initier les paiements via St
 
 ---
 
-# stripe-api
-# stripe-api
-# stripe-api
-# stripe-api
-# stripe-api
-# stripe-api
